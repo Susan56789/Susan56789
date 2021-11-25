@@ -9,7 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susan56789&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="susan56789" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=susan56789&show_icons=true&locale=en&theme=dark&count_private=true" alt="susan56789" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=susan56789&show_icons=true&locale=en&theme=dark&count_private=true" alt="susan56789" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=susan56789&theme=dark&count_private=true" alt="susan56789" /></p>
 
@@ -23,8 +23,8 @@
 <p ><a href="https://www.buymeacoffee.com/SueNeemoh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SueNeemoh" /></a></p><br><br>
 
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/nimoh_sue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimoh_sue" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/susan-macharia-902704174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susan-macharia-902704174" height="30" width="40" /></a>
 <a href="https://instagram.com/w.a.i.r.i.m.u.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.a.i.r.i.m.u.__" height="30" width="40" /></a>
