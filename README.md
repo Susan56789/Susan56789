@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Susan Wairimu</h1>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=susan56789&label=Profile%20views&color=ff69b4&style=plastic" alt="susan56789" /> </p>--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susan56789&label=Profile%20views&color=ff69b4&style=plastic" alt="susan56789" /> </p>
+<!---
 <p align="left"> <a href="https://twitter.com/nimoh_sue" target="blank"><img src="https://img.shields.io/twitter/follow/nimoh_sue?logo=twitter&style=for-the-badge" alt="nimoh_sue" /></a> </p>
+--->
 
 
 <h3 align="left">Languages and Tools:</h3>
