@@ -9,13 +9,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susan56789&show_icons=true&locale=en&layout=compact&theme=dark" alt="susan56789" /></p>
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=susan56789&label=Profile%20views&color=0e75b6&style=flat" alt="susan56789" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susan56789&label=Profile%20views&color=0e75b6&style=flat" alt="susan56789" /> </p>
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susan56789&show_icons=true&locale=en&theme=dark" alt="susan56789" /></p>
 
 <br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=susan56789&theme=dark" alt="susan56789" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=susan56789&theme=dark&count_private=true" alt="susan56789" /></p>
 
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susan56789&theme=dark" alt="susan56789" /></a> </p>
