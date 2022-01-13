@@ -18,7 +18,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=susan56789&theme=dark&count_private=true" alt="susan56789" /></p>
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susan56789&theme=dark" alt="susan56789" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susan56789&theme=onedark" alt="susan56789" /></a> </p>
 
 <br/>
 
