@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Susan Wairimu</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate female developer from Kenya</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
