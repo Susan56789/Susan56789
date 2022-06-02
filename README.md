@@ -22,7 +22,6 @@
 
 <br/>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/susan-macharia-902704174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susan-macharia-902704174" height="30" width="40" /></a>
@@ -31,6 +30,7 @@
 <a href="https://codeforces.com/profile/suenimoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suenimoh" height="30" width="40" /></a>
 </p>
 
+<br/>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SueNeemoh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SueNeemoh" /></a></p><br><br>
