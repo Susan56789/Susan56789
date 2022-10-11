@@ -1,8 +1,6 @@
-<h1 align="center">Hello👋, I'm Susan Wairimu</h1>
+<h1><p align = "centre"># Hello, DEVS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height = "50px"> </p></h1>
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning **React JS**
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Susan+Wairimu;Web-Developer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +22,7 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height = "50px"></h3>
 
 <div align="left">
 <a href="https://linkedin.com/in/susan-macharia-902704174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susan-macharia-902704174" height="30" width="40" /></a>
