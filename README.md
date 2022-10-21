@@ -1,6 +1,6 @@
 <h1><p align = "centre"># Hello, DEVS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height = "50px"> </p></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Susan+Wairimu;Front-End Developer;Web3 Enthuasiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Susan+Wairimu;Front-End Developer)](https://git.io/typing-svg)
 
 <br/>
 
